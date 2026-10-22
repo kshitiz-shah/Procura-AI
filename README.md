@@ -9,6 +9,7 @@ Sourcyn is a multi-agent procurement intelligence platform powered by LangGraph,
 - **What-If Scenario Simulation**: Side-by-side evaluation of cost spikes, delays, and risk variations against immutable baselines.
 - **Human-in-the-Loop Governance**: Approval checkpoint gating before purchase order commitment.
 - **Saved Intake Drafts**: Requirement intake fields are saved locally and restored after a page refresh.
+- **Scenario Studio Presets & Simulation Export**: Quick-load stress-test simulation presets (inflation surge, mission-critical SLA, risk shield), reset-to-baseline controls, and downloadable differential report dossiers.
 
 ## Architecture & Implementation Roadmap
 See [IMPLEMENTATION_PLAN.md](IMPLEMENTATION_PLAN.md) for complete engineering blueprints.
